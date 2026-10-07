@@ -533,7 +533,7 @@ et de générer automatiquement la fiche correspondante.
 Vérifiez que :
 
 * votre dossier porte bien votre pseudo ;
-* le fichier s'appelle bien `fiche_produit.py` ;
+* le fichier s'appelle bien `NAFAA-yassine/fiche_produit.py` ;
 * votre programme fonctionne sans erreur ;
 * les calculs sont corrects ;
 * l'affichage correspond aux consignes ;
