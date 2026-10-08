@@ -11,7 +11,7 @@ date_fabrication ="2026/20/05"
 date_limite = "2026-10-12"
 
 prix_kg= 2.49
-
+# calcul du poid
 poids_kg = poids_grammes / 1000
 
 print(f"poids : {poids_kg} kg ")
