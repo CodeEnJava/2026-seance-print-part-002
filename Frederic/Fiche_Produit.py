@@ -19,7 +19,7 @@ print(f"poids : {poids_kg} kg ")
 print(f"Prix au kilo : {prix_kg:.2f} €")
 
 
-# affichage des informations
+# affichage des  informations
 
 print("="*51)
 print(" "*17, "fiche produit")
