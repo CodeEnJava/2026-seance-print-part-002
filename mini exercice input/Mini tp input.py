@@ -19,3 +19,5 @@ print(f"Ton Nouveau nom sera {pseudo}")
 a = int(input("entrer un un nombre entier : "))
 b = int(input("entrer un deuxieme nombre entier : "))
 
+
+
