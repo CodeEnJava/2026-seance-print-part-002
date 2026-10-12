@@ -1,17 +1,10 @@
-nom_produit = "Pommes Golden"
-type_produit = "Fruit"
-reference = "FR-POM-001"
-
-poids_grammes = 750
-poids_kg = poids_grammes / 1000
+from DAO_produit import *
+# la responsabilité de ce module est d'affiche la fiche d'un produit P
 
 
-date_fabrication = "2026-10-05"
-date_limite_consommation = "2026-10-12"
-
-prix_kilo = 2.49
 
 prix_produit = poids_kg * prix_kilo
+
 print(f" Prix du produit        : {prix_produit:.2f} €")
 
 print("="*20)
